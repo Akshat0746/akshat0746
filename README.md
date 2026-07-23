@@ -80,7 +80,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatKumarSrivastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat0746&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatKumarSrivastava&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat0746&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" />
 
 </div>
 
