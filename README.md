@@ -5,9 +5,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AkshatKumarSrivastava&label=Profile%20Views&color=00F7FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Akshat0746&label=Profile%20Views&color=00F7FF&style=flat-square)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/AkshatKumarSrivastava?label=Followers&style=flat-square&color=00F7FF)
+![GitHub followers](https://img.shields.io/github/followers/Akshat0746?label=Followers&style=flat-square&color=00F7FF)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshat0746&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat0746&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Akshat0746&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat0746&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
 </div>
@@ -131,6 +131,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AkshatKumarSrivastava&color=00F7FF&style=for-the-badge&label=THANKS+FOR+VISITING)
+![Profile Views](https://komarev.com/ghpvc/?username=Akshat0746&color=00F7FF&style=for-the-badge&label=THANKS+FOR+VISITING)
 
 </div>
