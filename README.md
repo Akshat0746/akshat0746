@@ -71,15 +71,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshat0746&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Akshat0746&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat0746&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
-</div>
-<br/>
 
 ## 📈 Contribution Graph
 
