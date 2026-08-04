@@ -83,6 +83,16 @@
 
 <br/>
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Akshat0746&theme=react-dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
 ## ⚙️ Featured Technologies
 
 <div align="center">
